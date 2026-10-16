@@ -1,25 +1,81 @@
-<h1 align="center">Hi 👋, I'm FIRAT</h1>
-<h3 align="center">A passionate frontend developer from Türkiye </h3>
-
-<img align="right" alt="Coding" width="500" src="https://i.hizliresim.com/rkg8teb.jpeg">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firat404engin&label=Profile%20views&color=0e75b6&style=flat" alt="firat404engin" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<br><br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/firatengin404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="firatengin404" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/firatengin404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firatengin404" height="30" width="40" /></a>
-<a href="https://instagram.com/firatengin404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firatengin404" height="30" width="40" /></a>
-<a href="https://discord.gg/epixs404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="epixs404" height="30" width="40" /></a>
+<p align="center">
+  <img src="./profile-banner.svg" alt="Fırat Engin — Systems Engineer, production systems and software development" width="100%" />
 </p>
-<br><br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firat404engin&show_icons=true&locale=en&layout=compact" alt="firat404engin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firat404engin&show_icons=true&locale=en" alt="firat404engin" /></p>
-<br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firat404engin&" alt="firat404engin" /></p>
+<p align="center">
+  <a href="https://firatengindev.vercel.app/">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/firatengin404/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:fengin7321@gmail.com">Email</a> &nbsp; · &nbsp;
+  <a href="https://firatengindev.vercel.app/FiratEnginOzgecmis.pdf">CV</a>
+</p>
+
+### Turning production data into practical solutions.
+
+I'm **Fırat**, a Computer Engineering graduate and **Systems Engineer at System Handle** since July 2026. I work on digitizing, managing and improving production processes, combining hands-on systems support with software development.
+
+- **Production systems:** Mikro Fly ERP and Prosis MES.
+- **Data & reporting:** SQL Server queries, production reports and data-flow analysis.
+- **Operations:** Work orders, production operations, inventory movements, system integration and user support.
+- **Currently building:** My own MES application for clearer, more user-friendly production monitoring.
+
+---
+
+### What I work on
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>01 / Production systems</h4>
+      <p>Understanding operational problems across ERP and MES, and helping production teams use their systems effectively.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>02 / Data & integration</h4>
+      <p>Writing SQL queries and reports, analyzing data flows and supporting connections between business systems.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>03 / Software development</h4>
+      <p>Building .NET applications, automation tools and web interfaces that make day-to-day work easier.</p>
+    </td>
+  </tr>
+</table>
+
+### Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square" alt="C sharp" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square" alt="ASP.NET MVC" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0891B2?style=flat-square" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square" alt="Git" />
+</p>
+
+**Business systems:** Mikro Fly ERP · Prosis MES  
+**IT foundation:** Active Directory · Windows Server · Group Policy · DHCP / DNS
+
+### Selected work
+
+| Project | Focus | Explore |
+| :--- | :--- | :--- |
+| **Personal MES application** | Modern, user-friendly production monitoring | In development |
+| **Portfolio** | Next.js, TypeScript, Tailwind CSS and Framer Motion | [Website](https://firatengindev.vercel.app/) · [Source](https://github.com/firat404engin/my-portfolio) |
+| **Hospital automation** | C# and SQL application | [Repository](https://github.com/firat404engin/Hastane_OtomasyonV2) |
+| **Face recognition library automation** | C# Forms and EMGU CV | [Repository](https://github.com/firat404engin/CSharp_and_EMGUCV) |
+
+<details>
+<summary><b>Türkçe / Hakkımda</b></summary>
+
+Bilgisayar Mühendisliği mezunuyum. Temmuz 2026'dan bu yana **System Handle'da Sistem Mühendisi** olarak üretim süreçlerinin dijitalleştirilmesi, yönetilmesi ve iyileştirilmesi üzerine çalışıyorum.
+
+**Mikro Fly ERP, Prosis MES ve SQL Server** üzerinden iş emirlerini, üretim operasyonlarını, stok hareketlerini ve veri akışlarını analiz ediyorum. SQL sorguları ve raporlamalarla üretim takibini kolaylaştırıyor; sistemler arası entegrasyon ve kullanıcı desteği sağlıyorum.
+
+Üretim takibini daha modern, kullanıcı dostu ve verimli hâle getirmek için **kendi MES uygulamamı geliştiriyorum**.
+
+</details>
+
+---
+
+<p align="center"><b>Production systems. Clear data. Useful software.</b><br /><a href="https://firatengindev.vercel.app/">Explore my portfolio →</a></p>
